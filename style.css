@@ -62,9 +62,7 @@ html{
 	z-index: 1;
 }
 
-.dropdown:hover .dropdown-contant{
-	display: block;
-}
+
 .menu-bar{
 	list-style-type: none;
 	background-color:#1f2024;
@@ -76,9 +74,10 @@ html{
 	padding: 10px 20px;
 	color:#fff;
 }
-#active {
+.menu-bar li a:hover{
 	color:#ff9900;
-}
+}	
+
 #banner{
 	width: 100%;
 
