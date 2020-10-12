@@ -49,7 +49,7 @@ html{
 }
 
 .dropdown{
-	display: inline-block;
+	display: none;
 	float: right;
 	position: relative;
 }

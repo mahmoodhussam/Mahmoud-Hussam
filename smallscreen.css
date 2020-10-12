@@ -8,6 +8,9 @@
 	#nav-bar{
 		display: block;
 	}
+	.dropdown{
+	display: inline-block;
+}
 	#about{
 		height: 120vh;
 	}
