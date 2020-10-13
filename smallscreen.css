@@ -10,9 +10,13 @@
 	}
 	.dropdown{
 	display: inline-block;
-}
+	}
+	#text-banner{
+	height:220px;
+	font-size: 25px;
+	}
 	#about{
-		height: 120vh;
+		height: 130vh;
 	}
 	#about-row{
 		flex-direction: column;
@@ -71,7 +75,19 @@
 	margin-left: auto;
 
 }
+.social-1 i{
+	margin-right: 20px;
+	margin-left: 20px;
+	font-size:40px;
+	color:#696f73;
+}
+.input{
+	width:250px;
+	height: 50px;
+	}
 .text-area{
+	width:250px;
+	height: 200px;
 	margin: 0px;
 }
 #submit{
